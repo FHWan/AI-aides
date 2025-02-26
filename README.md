@@ -1,7 +1,10 @@
 # AI-aides
 基于deepseek与GPT-SoVits的U-Office助手
+
 本项目搭建环境为ubuntu22.04，GPU为nvidia GeForce RTX 3050，4G显存
+
 请提前安装好GPU驱动和cuda
+
 （如果没有nvidia显卡，不建议搭建，速度会非常慢！） 
 
 # deepseek部分
