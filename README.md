@@ -29,7 +29,10 @@ https://github.com/RVC-Boss/GPT-SoVITS.git
 
 cd GPT-SoVITS
 pip install -r requirements.txt
-之后将模型放到对应名字的文件夹内
+之后将模型放到对应名字的文件夹内:
+yulika-e15.ckpt为GPT_weights_v2模型
+youlika_e10_s1000.pth为SoVITS_weights_v2模型
+
 
 4.运行
 python webui.py
